@@ -4,6 +4,14 @@ Tela de login transparente desenvolvida como estudo de HTML, CSS e JavaScript.
 
 O projeto apresenta uma interface de autenticação com efeito visual de transparência, imagem de fundo, formulário centralizado, ícones nos campos e elementos como "Remember me", "Forgot password" e link de cadastro.
 
+## Preview
+
+<p align="center">
+  <img src="images/login-preview1.png" alt="Preview da tela de login">
+</p>
+
+
+
 ## Sobre o projeto
 
 O **LoginTransparent** é uma página estática criada para praticar construção de interfaces modernas com HTML e CSS.
